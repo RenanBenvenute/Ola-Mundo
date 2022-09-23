@@ -1,2 +1,4 @@
-# Ola-Mundo
- Premeiro Repositório Versionado
+# Olá, Mundo!
+ Premeiro Repositório Versionado.
+
+ Repositório criado durando a aula!
